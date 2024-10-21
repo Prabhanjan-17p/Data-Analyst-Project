@@ -1,4 +1,6 @@
-# Data-Analyst-Project
+# Data-Analyst-Project (PowerBi)
+
+https://app.powerbi.com/reportEmbed?reportId=c2714b81-07ea-4365-9f2f-c4dccfc695a9
 
 
 ![biWall](https://github.com/user-attachments/assets/da1fafac-9bdc-4e3a-baa5-ec932f84774e)
