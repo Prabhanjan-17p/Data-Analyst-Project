@@ -1,4 +1,4 @@
-# Data-Analyst-Project (PowerBi)
+# Data-Analyst-Project (Power Bi)
 
 https://app.powerbi.com/reportEmbed?reportId=c2714b81-07ea-4365-9f2f-c4dccfc695a9
 
